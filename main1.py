@@ -3,7 +3,6 @@
 Here's our first attempt at using data to create a table:
 """
 
-from tkinter import Button
 import streamlit as st
 import pandas as pd
 df = pd.DataFrame({
